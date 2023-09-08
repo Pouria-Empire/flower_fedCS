@@ -1,0 +1,11 @@
+INFO flwr 2023-09-04 10:22:33,501 | app.py:148 | Starting Flower server, config: ServerConfig(num_rounds=3, round_timeout=None)
+INFO flwr 2023-09-04 10:22:33,670 | app.py:168 | Flower ECE: gRPC server running (3 rounds), SSL is disabled
+INFO flwr 2023-09-04 10:22:33,671 | server.py:86 | Initializing global parameters
+INFO flwr 2023-09-04 10:22:33,671 | server.py:273 | Requesting initial parameters from one random client
+INFO flwr 2023-09-04 10:22:33,671 | client_manager.py:38 | num_clients = (1), min_num_clients = (None).
+INFO flwr 2023-09-04 10:24:05,441 | client_manager.py:72 | Client (ipv4:192.168.0.30:43678) has the following resources: ({'t_ud': 4.456319216054466, 'theta': 1.5536758833966486})
+INFO flwr 2023-09-04 10:24:05,511 | client_manager.py:110 | The following clients were selected for this round: (['ipv4:192.168.0.30:43678'])
+INFO flwr 2023-09-04 10:24:05,908 | server.py:277 | Received initial parameters from one random client
+INFO flwr 2023-09-04 10:24:05,911 | server.py:88 | Evaluating initial parameters
+INFO flwr 2023-09-04 10:24:05,915 | server.py:101 | FL starting
+INFO flwr 2023-09-04 10:24:05,921 | client_manager.py:38 | num_clients = (5), min_num_clients = (50).

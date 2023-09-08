@@ -1,0 +1,4 @@
+INFO flwr 2023-09-04 10:24:10,791 | grpc.py:50 | Opened insecure gRPC connection (no certificates were passed)
+DEBUG flwr 2023-09-04 10:24:10,870 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flwr 2023-09-04 10:24:11,077 | connection.py:39 | ChannelConnectivity.CONNECTING
+DEBUG flwr 2023-09-04 10:24:12,189 | connection.py:39 | ChannelConnectivity.READY
